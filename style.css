@@ -1,0 +1,61 @@
+body{
+    background-image: url("bubble.jpg");
+}
+
+.first{
+    text-align: center;
+    padding-top:10%;
+    padding-left: 40%;
+    padding-right: 30%;
+    width: 30%;
+    height: 30%;
+}
+#main{
+    border-width:10px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 30px 10px rgb(171, 152, 194);
+}
+.text{
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: beige;
+    height: 25px;
+    width: 300px;
+}
+span{
+    padding-right: 100px;
+    color: rgba(78, 76, 76, 0.803);
+}
+#mailicon{
+    height: 13px;
+    width: 15px;
+    /*padding-left: 5%;*/
+}
+#lockicon{
+    height: 16px;
+    width: 16px;
+    padding-left: 10%;
+}
+#head{
+    padding-top: 10%;
+    padding-bottom: 6%;
+    color: rgb(6, 137, 203);
+}
+#button{
+    height: 30px;
+    width: 250px;
+    border-radius: 15px;
+    border-style: solid;
+    background-image: linear-gradient(to right, rgb(255, 255, 0) , rgb(255, 1, 217));
+}
+#last{
+    padding-bottom:20px;
+}
+.intext{
+    font-size:20px;
+}
+#user{
+    height: 80px;
+    width:80px;
+}
